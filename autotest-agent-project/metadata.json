@@ -1,0 +1,6 @@
+{
+  "name": "AutoTest Agent - Manual QA & Background Test Generator",
+  "description": "Autonomous QA test agent that observes manual application interactions and generates Playwright, Cypress, Jest, and Gherkin test cases in the background with edge-case detection and replay runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
