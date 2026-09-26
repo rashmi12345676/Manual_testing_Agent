@@ -95,41 +95,6 @@ npm run start
 
 ---
 
-## 🛠️ Pushing to Your GitHub Repository
-
-If you haven't pushed this code to your GitHub yet, follow these simple steps:
-
-### Option A: From your terminal / command line
-
-1. **Initialize Git (if not already done)**:
-   ```bash
-   git init
-   git branch -M main
-   ```
-
-2. **Stage and commit your files**:
-   ```bash
-   git add .
-   git commit -m "feat: initial commit of AutoTest Agent"
-   ```
-
-3. **Link to your GitHub repository**:
-   Create a new repository on [GitHub](https://github.com/new), then copy its URL and run:
-   ```bash
-   git remote add origin https://github.com/<YOUR-USERNAME>/<YOUR-REPO-NAME>.git
-   ```
-
-4. **Push your code**:
-   ```bash
-   git push -u origin main
-   ```
-
-### Option B: Using GitHub Desktop
-1. Open GitHub Desktop.
-2. Select **File > Add Local Repository...** and choose this project folder.
-3. Click **Publish repository** to push it directly to your GitHub account.
-
----
 
 ## 🛡️ License
 Apache-2.0
